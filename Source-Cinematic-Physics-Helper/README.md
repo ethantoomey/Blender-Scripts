@@ -1,4 +1,4 @@
-## How to use the Source Cinematic Physics Helper script
+## How to use the Source Cinematic Physics Helper Script **(VERSION 1.0)**
 
 #### 1) Before we get started...
 First things first, make sure to create your animated objects in blender, whether simulated with rigid bodies or a manual animation. 
