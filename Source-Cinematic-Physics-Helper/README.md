@@ -57,7 +57,7 @@ Assuming you've already downloaded my script, make sure to put it somewhere you 
 
 10. Play it back in blender. If Its playing the animation then you've successfully created the animation to export into source!
 
-11. Make sure to both of the objects (The Armature & The Mesh) individually and press **(CTRL+A)** and apply **Location** & **Scale** for both.
+11. Make sure to select the Mesh object and press **(CTRL+A)** and apply **Location** & **Scale**.
 
 12. Now using the [Blender Source Tools](http://steamreview.org/BlenderSourceTools/), you can easily export both the animation and the object by selecting the mesh object and the Armature and hitting export under 'Source Engine Export'
 
