@@ -16,11 +16,11 @@ Assuming you've already downloaded my script, make sure to put it somewhere you 
 
 3. Make sure to select all the objects to be animated by going into Wireframe mode by pressing **(Z)** and then selecting the objects by pressing **(B)**.
 
- ![](https://giant.gfycat.com/ComfortableTiredBlowfish.gif)
+ ![](https://thumbs.gfycat.com/SandyAdoredJerboa-size_restricted.gif)
 
 4. Now with all the objects selected, we can run our script by going back to the text editor with the script loaded and simply pressing 'Run Script' or pressing **(ALT+P)**
 
- ![](https://thumbs.gfycat.com/DismalRealGrizzlybear-size_restricted.gif)
+ ![](https://thumbs.gfycat.com/AmpleIgnorantBorzoi-size_restricted.gif)
 
   *If you did everything correctly, the script should 
  automatically create an Object called 'Physics 
