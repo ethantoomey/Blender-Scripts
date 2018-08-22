@@ -6,7 +6,7 @@ First things first, make sure to create your animated objects in blender, whethe
 
 ![](https://thumbs.gfycat.com/FaintQuarterlyAfricanjacana-size_restricted.gif)
 
-####2 ) Getting Started:
+#### 2) Getting Started:
 Assuming you've already downloaded my script, make sure to put it somewhere you can load it in later. I recommend having a blender scripts folder for future uses! 
 
 1. Open your Blender file, bring up the Text Editor in a new window.
