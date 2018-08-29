@@ -46,18 +46,18 @@ Assuming you've already downloaded my script, make sure to put it somewhere you 
 
 7. Hit 'OK', and now you can hide the 'Physics Armature' and its Parent 'Physics Objects' and select just the Mesh Objects again, and join them by pressing **(CTRL+J)**
 
+8. Make sure to select the Mesh object and press **(CTRL+A)** and apply **Location** & **Scale**.
+
  ![](https://thumbs.gfycat.com/SizzlingQuickBluemorphobutterfly-size_restricted.gif)
 
 
-8. Select the joined Mesh Object, and remove the Rigid Body.
+9. Select the joined Mesh Object, and remove the Rigid Body.
 
-9. Now unhide the Physics Armature, add an Armature Modifier to the joined Mesh Object. Set the Object in the Armature modifier to be the Physics Armature.
+10. Now unhide the Physics Armature, add an Armature Modifier to the joined Mesh Object. Set the Object in the Armature modifier to be the Physics Armature.
 
  ![](https://i.imgur.com/brFF37p.png)
 
-10. Play it back in blender. If Its playing the animation then you've successfully created the animation to export into source!
-
-11. Make sure to select the Mesh object and press **(CTRL+A)** and apply **Location** & **Scale**.
+11. Play it back in blender. If Its playing the animation then you've successfully created the animation to export into source!
 
 12. Now using the [Blender Source Tools](http://steamreview.org/BlenderSourceTools/), you can easily export both the animation and the object by selecting the mesh object and the Armature and hitting export under 'Source Engine Export'
 
