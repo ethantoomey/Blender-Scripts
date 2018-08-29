@@ -72,5 +72,7 @@ Two things to note for the QC File!
 
 2) To reference the animation you just created in the QC file, you must reference it as a new [$sequence](https://developer.valvesoftware.com/wiki/$sequence), which can be done by simply entering ```$sequence <name of sequence>	<"path-to-animation-smd">```
 
+Finally, if you used my script to make something, please send me a video or webm of it! I'd love to see what people make with it!
+
 
 
