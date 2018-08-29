@@ -65,6 +65,12 @@ Assuming you've already downloaded my script, make sure to put it somewhere you 
 
 The files exported! The animation will be under a subfolder called 'Anims' which you can easily reference when compiling the object with your QC File.
 
+# An Afterword 
+Two things to note for the QC File! 
+
+1) Make sure to use [$collisionjoints](https://developer.valvesoftware.com/wiki/$collisionjoints) in your QC if you plan to have your mesh collide with objects in the world!
+
+2) To reference the animation you just created in the QC file, you must reference it as a new [$sequence](https://developer.valvesoftware.com/wiki/$sequence), which can be done by simply entering ```$sequence <name of sequence>	<"path-to-animation-smd">```
 
 
 
